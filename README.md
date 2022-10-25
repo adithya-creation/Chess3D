@@ -4,7 +4,7 @@
 3D chess game done in HTML/CSS/JS.
 Works only in webkit.
 
-See it in action : 
+See it in action : https://adithya-creation.github.io/Chess3D/
 
 **Libraries**
 
