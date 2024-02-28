@@ -12,7 +12,7 @@ See it in action : https://adithya-creation.github.io/Chess3D/
 * Chess.js : https://github.com/jhlywa/chess.js
 
 
-Website - https://adithya-creation.github.io/web
+Website - https://adithya-creation.github.io/
 
 
-© 2022 Adithya Creation, Inc
+© 2024 Adithya Creation, Inc
